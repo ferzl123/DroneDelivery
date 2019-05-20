@@ -51,6 +51,8 @@ And worst case you always miss other's orders, we have to find the optimal way b
 ## Instruction:
 
 ### usage:
+<img align="left" width="100" height="100" https://github.com/ferzl123/DroneDelivery/blob/master/DroneDelivery/Project%20structure.png>
+
 ```
     java -jar DroneDelivery.jar -input input_file_path [-output output_file_path] [-scheduler scheduler_type] [-print Y/N]
 Usage(.class File): 
